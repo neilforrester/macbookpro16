@@ -29,8 +29,11 @@ Route::get('/register', function () {
     return view('register');
 });
 
+<<<<<<< Updated upstream
 Route::get('/test', function () {
     return view('test');
 });
 
 
+=======
+>>>>>>> Stashed changes
